@@ -1,11 +1,9 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-Hi I am Melina Parker but I also go by Molly.
+# About Me
 
-I am a computer science graduate from UW Stout with a minor in Mathmatics.
-
-[jekyll-organization]: https://github.com/jekyll
+Hi I am Melina, though I also go by Molly. I am a computer programmer who graduated from UW Stout.

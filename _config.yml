@@ -28,7 +28,7 @@ url: "https://seerofthegates.github.io/" # the base hostname & protocol for your
 github_username:  SeerOfTheGates
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
